@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك طول الليل
+> نار الشوق بتنادي لك في الخيال
+> لو تبعد عني حياتي تميل
+> خليك جنبي يا أروع إنسان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
