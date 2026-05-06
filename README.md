@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-weyak-w-el-donia-helwa-me-and-you-and-the-world-is-beautiful/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Request Licensing for Ana Weyak W El Donia Helwa – Me and You and the World is Beautiful](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
