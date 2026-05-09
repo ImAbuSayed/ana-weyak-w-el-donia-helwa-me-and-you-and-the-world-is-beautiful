@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ana Weyak W El Donia Helwa – Me and You and the World is Beautiful
+
+This log tracks the cryptographic history and versioning for the song **Ana Weyak W El Donia Helwa – Me and You and the World is Beautiful** (ana-weyak-w-el-donia-helwa-me-and-you-and-the-world-is-beautiful).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T08:49:29.880510 | `v1` | `06e68103d4d58ea0e47ba151a640b2d614a1b7b4cbd6912ac0b119aebdc7707f` | `b5dbbefd30597d98abfad4d1c8e9686fc65d8ea9c1768c6581ac6289d8b398d5` | `2026-05-09_ana-weyak-w-el-donia-helwa-me-and-you-and-the-world-is-beautiful-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
